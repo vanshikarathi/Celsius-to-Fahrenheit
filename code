@@ -1,0 +1,11 @@
+print("Press 1- Celsius to Fahrenheit")
+a= int(input("Enter Key to Start")
+if(a==1):
+	n = float(input("Enter temp in Centigrade")
+	f = (1.8*c)+32
+	print("Temperature in Fahrenheit = {0:.2f}".format(f))
+	break;
+  
+else:
+	print("OPPs Wrong Selection")
+	break;
